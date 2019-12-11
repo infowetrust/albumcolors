@@ -1,5 +1,5 @@
 # albumcolors
-Color palettes recreated by RJ Andrews from late 1800s French Album de Statitistique Graphique.
+Color palettes recreated by RJ Andrews from late 1800s French _Album de Statitistique Graphique_.
 
 Folder name:
 [palette type]-[# of swatches]-[David Rumsey List No.]
