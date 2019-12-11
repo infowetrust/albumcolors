@@ -3,6 +3,8 @@ These color palettes were recreated by RJ Andrews during Advent 2019 from the la
 
 Each recreated palette is comprised of several SVG patterns. SVGs are located in the [Patterns folder](https://github.com/infowetrust/albumcolors/tree/master/patterns). Each SVG pattern is named by its Rumsey List Number and sequence in parent palette.
 
+For a nice introduction to the palettes see them in their original [Twitter thread](https://twitter.com/infowetrust/status/1201281456409964550).
+
 Overview documentation of palettes is in the [Previews folder](https://github.com/infowetrust/albumcolors/tree/master/previews). Each palette has a preview image + CSV with Rumsey list number, 2019 Advent day it was originally published, what type of palette scheme it is, and how many patterns it contains.
  
 Let me know on Twitter [@infowetrust](https://twitter.com/infowetrust) if you make anything using these palettes. If there is interest I may expand beyond the existing four palettes and add additional documentation about map styling including a note on typefaces.
