@@ -1,5 +1,5 @@
 # albumcolors
-These color palettes were recreated by RJ Andrews during Advent 2019 from the late 1800s French _Album de Statistique Graphique_. The original album maps are one of the highest achievements in thematic mapping. Visit [DavidRumsey](https://www.davidrumsey.com/luna/servlet/view/search?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&q=album+de+statistique&search=Go) to see each original map in its full glory.
+These color palettes were recreated by RJ Andrews during Advent 2019 from the late 1800s French _Albums de Statistique Graphique_. The original album maps are one of the highest achievements in thematic mapping. Visit [DavidRumsey](https://www.davidrumsey.com/luna/servlet/view/search?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&q=album+de+statistique&search=Go) to see each original map in its full glory.
 
 Each recreated palette is comprised of several SVG patterns. SVGs are located in the [Patterns folder](https://github.com/infowetrust/albumcolors/tree/master/patterns). Each SVG pattern is named by its Rumsey List Number and sequence in parent palette.
 
